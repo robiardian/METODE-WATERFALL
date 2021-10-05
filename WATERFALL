@@ -14,3 +14,10 @@ Urutan dalam Metode Waterfall bersifat serial yang dimulai dari proses -perencan
   6.maintenance. 
   Langkah demi langkah yang dilalui harus diselesaikan satu per satu (tidak dapat meloncat ke tahap berikutnya) dan berjalan secara berurutan, 
   oleh karena itu di sebut waterfall (Air Terjun).
+
+Tahap-Tahap Metode Waterfall
+A.Requirement Analysis
+B.System and Software Design
+C.Implementation and Unit Testing
+D.Integration and System Testing
+E.Operation and Maintenance
